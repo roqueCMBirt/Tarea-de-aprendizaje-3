@@ -1,0 +1,4 @@
+MANTENIMIENTO Y CONTROL DE VERSIONES
+
+Debes crear una cuenta en GitHub.com y crear un nuevo repositorio público llamado Tarea de aprendizaje 3. En dicho repositorio, debes añadir los módulos de información multimedia adjuntados en la tarea más un archivo de texto plano. 
+A continuación, debes realizar cambios en los tres archivos y registrar los cambios en el repositorio remoto de GitHub.com.
